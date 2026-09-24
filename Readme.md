@@ -37,7 +37,7 @@ Student-Performance-Analyzer/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/shaikh-arz/student-performance-analyzer.git
 ```
 
 Move into the project folder:
